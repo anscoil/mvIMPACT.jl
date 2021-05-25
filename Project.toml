@@ -1,0 +1,4 @@
+name = "mvIMPACT"
+uuid = "f6a188d1-f345-4b5a-84da-ae698f72be42"
+authors = ["Nicolas Barré <nicolas.barre@protonmail.com>"]
+version = "0.1.0"
